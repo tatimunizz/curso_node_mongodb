@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example Page</title>
+</head>
+<body>
+<h1>Books List</h1>
+
+<div>
+    <% books.forEach(function(book){ %>
+        <H3>ID: <%= book.id %><br>TITLE: <%= book.title %><br>TYPE: <%= book.type %> </H3>
+    <% }); %>
+</div>
+
+</body>
+</html>

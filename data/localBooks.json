@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Senhor dos Aneis",
+    "type": "Ficção"
+  },
+  {
+    "id": 2,
+    "title": "Código Limpo",
+    "type": "Didádito"
+  },
+  {
+    "id": 3,
+    "title": "Dom Casmurro",
+    "type": "Romance"
+  }
+]
